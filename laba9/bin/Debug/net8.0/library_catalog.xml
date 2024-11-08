@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Title>Война и мир</Title>
+    <Author>Лев Толстой</Author>
+    <TotalCopies>5</TotalCopies>
+    <AvailableCopies>4</AvailableCopies>
+  </Book>
+  <Book>
+    <Title>Преступление и наказание</Title>
+    <Author>Федор Достоевский</Author>
+    <TotalCopies>3</TotalCopies>
+    <AvailableCopies>2</AvailableCopies>
+  </Book>
+</ArrayOfBook>
